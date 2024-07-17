@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap');
+
+body{
+font-family: "Roboto", sans-serif;
+background-color: rgb(13, 202, 236);
+
+}
+.container {
+    max-width: 750px;
+    margin: 50px auto;
+    
+}
+
+
+.ism img{
+    background: #0aaeea;
+    box-shadow: 5px 11px 19px 2px rgb(0,0,0);
+    border-radius: 15px 20px;
+    width: 200px;
+}
+.ism{
+    max-width: 200px;
+    margin: 0 auto;
+
+}
+
+.sotset {
+    padding: 10px 15px;
+    background: rgba(112, 106, 106, 0.401);
+    color: #100303;
+    border-radius: 10px 20px;
+
+}
+
+.makko {
+    background:rgba(84, 94, 95, 0.315);
+    color: rgb(17, 24, 25);
+    border-radius: 10px;
+}
+.isko{
+    padding: 10px 15 px;
+    background: rgba(55, 138, 134, 0.403);
+    color: black;
+    border-radius: 10px 20px ;  
+
+}
+.form{
+    padding-left: 20px;
+    background: #3b7e7e;
+    color: white;
+    border-radius: 10px;
+}
+
+
+.btn:hover:hover{
+    background-color: rgba(73, 136, 144, 0.43);
+    color: rgb(237, 227, 227);
+    transition: all 0.3s;
+    cursor: pointer;
+    width: 50%;
+    }
+    .container h1{
+        text-align: center;
+    }
+    table tr td {
+        padding-bottom: 20px;
+    }
+    table tr:nth-child(1) {
+        color: #3f1ac4;
+
+    }
+        
+    
+    table tr:nth-child(3){
+        color: #5131bc;
+    }
+    
+
+
+    
+    
+    
+    
+       
+
+
+
+    
+
+
+
+
+
+
+
